@@ -47,8 +47,10 @@ experience:
     date_start: '2017-04-01'
     date_end: '2020-02-01'
     description: |2-
-        Worked at Technology Department of Autonomous Driving (SAE Level 4), Intelligent Driving Group. Mainly dealt with the perception (detection and classification) of LiDAR data.
-        Project include:
+        Worked at Technology Department of Autonomous Driving (SAE Level 4), Intelligent Driving Group.
+        Mainly dealt with the perception (detection and classification) of LiDAR point clouds data.
+
+        Projects include:
         * Multi-classification of objects from LiDAR data (3D point clouds) using deep learning algorithms.
         * Improvement of segmentation and data-driven detection from LiDAR data.
         * Research and development of filtering the false positive objects using machine learning methods.
