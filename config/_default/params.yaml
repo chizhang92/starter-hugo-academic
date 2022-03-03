@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'University of Gothenburg'
+    description: 'PhD student & Marie Curie Early Stage Researcher within SHAPE-IT project at the University of Gothenburg.'
+    twitter: 'ChiZhang92'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Chi Zhang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'Mapbox'
     api_key: ''
-    zoom: 15
+    zoom: 16
 
 # Extensions
 
