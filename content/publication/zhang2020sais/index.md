@@ -27,7 +27,7 @@ publishDate: "2020-06-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 32nd annual workshop of the Swedish Artificial Intelligence Society (SAIS)
+publication: 32nd annual workshop of the Swedish Artificial Intelligence Society (SAIS) 2020
 publication_short: In SAIS 2020
 
 # abstract:
@@ -76,7 +76,7 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -84,4 +84,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
