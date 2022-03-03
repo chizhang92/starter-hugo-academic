@@ -26,7 +26,7 @@ experience:
     company: University of Gothenburg
     company_url: 'https://www.gu.se/en'
     company_logo: gu
-    location: Gothenburg
+    location: Gothenburg, Sweden
     date_start: '2020-02-17'
     date_end: ''
     description: |2-
@@ -43,7 +43,7 @@ experience:
     company: Baidu
     company_url: 'https://apollo.auto/'
     company_logo: baidu
-    location: Beijing
+    location: Beijing, China
     date_start: '2017-04-01'
     date_end: '2020-02-01'
     description: |2-
@@ -59,7 +59,7 @@ experience:
     company: Alibaba Group
     company_url: 'https://www.alibabagroup.com/en/global/home'
     company_logo: alibabagroup
-    location: Hangzhou
+    location: Hangzhou, China
     date_start: '2016-06-20'
     date_end: '2016-09-01'
     description: |2-
