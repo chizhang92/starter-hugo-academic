@@ -12,7 +12,7 @@ subtitle: ""
 
 ---
 
-- **Hackathon:** Sweden University Challenge Huawei Hackathon 2021, 3rd place out of 200+ participants with 10,000 SEK prize, 2021.
+- Sweden University Challenge Huawei Hackathon 2021, 3rd place out of 200+ participants with 10,000 SEK prize, 2021.
 - Outstanding employee of the quarter, Baidu, 2018.
 - Outstanding Graduates of Zhejiang University & Zhejiang Province (top 5%), China, 2017.
 - Tianchi Data Contest: Cainiao demand forecasting and warehouse planning. Rank: top 3%, 2016.
