@@ -72,7 +72,9 @@ highlight_name: true
 ---
 
 Chi Zhang is currently pursuing her PhD degree under the supervision of Prof. [Christian Berger](http://www.chalmers.se/sv/personal/sidor/christian-berger.aspx) and Prof. [Marco Dozza](https://www.chalmers.se/en/staff/Pages/marco-dozza.aspx) with the Department of Computer Science and Engineering, University of Gothenburg.
-She received her BEng and MEng degrees in the Department of Control Science and Engineering from Zhejiang University, China, in 2014 and 2017, respectively. From 2017 to 2020, she was an engineer at the Intelligence Driving Group, Baidu, Beijing, China, in the area of automated driving perception. 
-Her research interests include applying deep learning on pedestrian behavior prediction, and interactions between vulnerable road users and vehicles/automated vehicles.
+She received her BEng and MEng degrees in the Department of Control Science and Engineering from Zhejiang University, China, in 2014 and 2017, respectively. From 2017 to 2020, she was an engineer at the Intelligence Driving Group, Baidu, Beijing, China, in the area of automated driving perception.
+
+
+Her research interests include applying deep learning to pedestrian behavior prediction, and investigating interactions between pedestrians and vehicles/automated vehicles.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
