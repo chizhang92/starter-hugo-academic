@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2105.12436.pdf'
+url_pdf: 'https://doi.org/10.1109/IV48863.2021.9575958'
 url_code: ''
 url_dataset: 'https://waymo.com/intl/en_us/open/'
 url_poster: 'https://www.shape-it.eu/wp-content/uploads/2021/09/ESR3_Chi_Zhang_AUTOUI_Poster-1.pdf'
@@ -66,7 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: shape-it
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
