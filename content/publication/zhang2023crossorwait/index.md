@@ -32,7 +32,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In proceedings of the 2023 IEEE Intelligent Vehicles Symposium (IV)
-publication_short: In IEEE IV 2023
+publication_short: In IEEE Intelligent Vehicles Symposium (IV) 2023
 
 abstract: In this paper, we use machine learning to predict pedestrian crossing behavior including pedestrian crossing decision, crossing initiation time (CIT), and crossing duration (CD) when interacting with vehicles at unsignalized crossings. Distributed simulator data are utilized for predicting and analyzing the interaction factors. Compared with the logistic regression baseline model, our proposed neural network model improves the prediction accuracy and F1 score by 4.46% and 3.23%, respectively. Our model also reduces the root mean squared error (RMSE) for CIT and CD by 21.56% and 30.14% compared with the linear regression model. Additionally, we have analyzed the importance of interaction factors, and present the results of models using fewer factors. This provides information for model selection in different scenarios with limited input features.
 
@@ -70,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: shape-it
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

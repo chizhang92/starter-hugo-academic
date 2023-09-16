@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In 2022 the 8th International Conference on Control, Automation and Robotics (ICCAR)
-publication_short: Accepted in IEEE ICCAR 2022
+publication_short: In IEEE ICCAR 2022
 
 abstract: In this paper, we study the interaction between pedestrians and vehicles and propose a novel neural network structure called the Pedestrian-Vehicle Interaction (PVI) extractor for learning the pedestrian-vehicle interaction. We implement the proposed PVI extractor on both sequential approaches (long short-term memory (LSTM) models) and non-sequential approaches (convolutional models). We use the Waymo Open Dataset that contains real-world urban traffic scenes with both pedestrian and vehicle annotations. For the LSTM-based models, our proposed model is compared with Social-LSTM and Social-GAN, and using our proposed PVI extractor reduces the average displacement error (ADE) and the final displacement error (FDE) by 7.46% and 5.24%, respectively. For the convolutional-based models, our proposed model is compared with Social-STGCNN and Social-IWSTCNN, and using our proposed PVI extractor reduces the ADE and FDE by 2.10% and 1.27%, respectively. The results show that the pedestrian-vehicle interaction influences pedestrian behavior, and the models using the proposed PVI extractor can capture the interaction between pedestrians and vehicles, and thereby outperform the compared methods.
 
@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: shape-it
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

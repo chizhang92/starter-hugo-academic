@@ -29,8 +29,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Intelligent Transportation Systems
 # publication_short: IEEE Trans. Intell. Transp. Syst.
 
-abstract:
-The prediction of pedestrian behavior is essential for automated driving in urban traffic and has attracted increasing attention in the vehicle industry. This task is challenging because pedestrian behavior is driven by various factors, including their individual properties, the interactions with other road users, and the interactions with the environment. Deep learning approaches have become increasingly popular because of their superior performance in complex scenarios compared to traditional approaches such as the social force or constant velocity models. In this paper, we provide a comprehensive review of deep learning-based approaches for pedestrian behavior prediction. We review and categorize a large selection of scientific contributions covering both trajectory and intention prediction from the last five years. We categorize existing works by prediction tasks, input data, model features, and network structures. Besides, we provide an overview of existing datasets and the evaluation metrics. We analyze, compare, and discuss the performance of existing work. Finally, we point out the research gaps and outline possible directions for future research.
+abstract: The prediction of pedestrian behavior is essential for automated driving in urban traffic and has attracted increasing attention in the vehicle industry. This task is challenging because pedestrian behavior is driven by various factors, including their individual properties, the interactions with other road users, and the interactions with the environment. Deep learning approaches have become increasingly popular because of their superior performance in complex scenarios compared to traditional approaches such as the social force or constant velocity models. In this paper, we provide a comprehensive review of deep learning-based approaches for pedestrian behavior prediction. We review and categorize a large selection of scientific contributions covering both trajectory and intention prediction from the last five years. We categorize existing works by prediction tasks, input data, model features, and network structures. Besides, we provide an overview of existing datasets and the evaluation metrics. We analyze, compare, and discuss the performance of existing work. Finally, we point out the research gaps and outline possible directions for future research.
 # # Summary. An optional shortened abstract.
 # summary: 
 
@@ -65,7 +64,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: shape-it
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

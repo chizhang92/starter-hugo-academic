@@ -30,8 +30,7 @@ publication_types: ["2"]
 publication: IEEE Transactions on Intelligent Vehicles
 # publication_short:
 
-abstract:
-Predicting the trajectories of pedestrians is critical for developing safe advanced driver assistance systems and autonomous driving systems. Most existing models for pedestrian trajectory prediction focused on a single dataset without considering the transferability to other previously unseen datasets. This leads to poor performance on new unseen datasets and hinders leveraging off-the-shelf labeled datasets and models. In this paper, we propose a transferable model, namely the “Spatial-Temporal-Spectral (STS) LSTM” model, that represents the motion pattern of pedestrians with spatial, temporal, and spectral domain information. Quantitative results and visualizations indicate that our proposed spatial-temporal-spectral representation enables the model to learn generic motion patterns and improves the performance on both source and target datasets. We reveal the transferability of three commonly used network structures, including long short-term memory networks (LSTMs), convolutional neural networks (CNNs), and Transformers, and employ the LSTM structure with negative log-likelihood loss in our model since it has the best transferability. The proposed STS LSTM model demonstrates good prediction accuracy when transferring to target datasets without any prior knowledge, and has a faster inference speed compared to the state-of-the-art models. Our work addresses the gap in learning knowledge from source datasets and transferring it to target datasets in the field of pedestrian trajectory prediction, and enables the reuse of publicly available off-the-shelf datasets.
+abstract: Predicting the trajectories of pedestrians is critical for developing safe advanced driver assistance systems and autonomous driving systems. Most existing models for pedestrian trajectory prediction focused on a single dataset without considering the transferability to other previously unseen datasets. This leads to poor performance on new unseen datasets and hinders leveraging off-the-shelf labeled datasets and models. In this paper, we propose a transferable model, namely the “Spatial-Temporal-Spectral (STS) LSTM” model, that represents the motion pattern of pedestrians with spatial, temporal, and spectral domain information. Quantitative results and visualizations indicate that our proposed spatial-temporal-spectral representation enables the model to learn generic motion patterns and improves the performance on both source and target datasets. We reveal the transferability of three commonly used network structures, including long short-term memory networks (LSTMs), convolutional neural networks (CNNs), and Transformers, and employ the LSTM structure with negative log-likelihood loss in our model since it has the best transferability. The proposed STS LSTM model demonstrates good prediction accuracy when transferring to target datasets without any prior knowledge, and has a faster inference speed compared to the state-of-the-art models. Our work addresses the gap in learning knowledge from source datasets and transferring it to target datasets in the field of pedestrian trajectory prediction, and enables the reuse of publicly available off-the-shelf datasets.
 # # Summary. An optional shortened abstract.
 # summary: 
 
@@ -66,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: shape-it
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

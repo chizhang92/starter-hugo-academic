@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In proceedings of the 2021 IEEE Intelligent Vehicles Symposium (IV)
-publication_short: In IEEE IV 2021
+publication_short: In IEEE Intelligent Vehicles Symposium (IV) 2021
 
 abstract: Pedestrian trajectory prediction in urban scenarios is essential for automated driving. This task is challenging because the behavior of pedestrians is influenced by both their own history paths and the interactions with others. Previous research modeled these interactions with pooling mechanisms or aggregating with hand-crafted attention weights. In this paper, we present the Social Interaction-Weighted Spatio- Temporal Convolutional Neural Network (Social-IWSTCNN), which includes both the spatial and the temporal features. We propose a novel design, namely the Social Interaction Extractor, to learn the spatial and social interaction features of pedestrians. Most previous works used ETH and UCY datasets which include five scenes but do not cover urban traffic scenarios extensively for training and evaluation. In this paper, we use the recently released large-scale Waymo Open Dataset in urban traffic scenarios, which includes 374 urban training scenes and 76 urban testing scenes to analyze the performance of our proposed algorithm in comparison to the state-of-the-art (SOTA) models. The results show that our algorithm outperforms SOTA algorithms such as Social-LSTM, Social-GAN, and Social-STGCNN on both Average Displacement Error (ADE) and Final Displacement Error (FDE). Furthermore, our Social- IWSTCNN is 54.8 times faster in data pre-processing speed, and 4.7 times faster in total test speed than the current best SOTA algorithm Social-STGCNN.
 
@@ -66,7 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: shape-it
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
