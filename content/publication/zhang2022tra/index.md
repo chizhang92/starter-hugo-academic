@@ -29,7 +29,7 @@ publication_types: ["1"]
 publication: Accepted presentation at Transport Research Arena (TRA) 2022
 publication_short: In TRA 2022
 
-abstract:
+abstract: Pedestrians are the most vulnerable road users in urban traffic scenarios and need to be protected from potentially hazardous situations. It is essential for automated vehicles and modern driver-assistance systems to better predict pedestrians’ behavior to prevent road crashes. Predicting pedestrian behavior is challenging because their behavior can be influenced by many factors. In recent years, deep learning (DL) methods as powerful tools have been utilized by many researchers to improve such predictions, but few researchers have analyzed the factors that influence pedestrian behavior prediction in DL. This paper uses DL to predict and analyze the factors that influence pedestrian behavior, especially the interactions between pedestrians and other road users. We focus on real-world urban traffic and use the publicly available Waymo Open Dataset for training, testing, and analyzing.
 
 # # Summary. An optional shortened abstract.
 # summary: 

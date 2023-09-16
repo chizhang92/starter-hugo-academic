@@ -1,5 +1,5 @@
 ---
-title: "Social-IWSTCNN: A Social Interaction-Weighted Spatio- Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction in Urban Traffic Scenarios"
+title: "Cross or Wait? Predicting Pedestrian Interaction Outcomes at Unsignalized Crossings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
