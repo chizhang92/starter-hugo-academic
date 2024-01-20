@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: 32nd annual workshop of the Swedish Artificial Intelligence Society (SAIS) 2020
-publication_short: In SAIS 2020
+publication_short: In SAIS workshop 2020
 
 # abstract:
 

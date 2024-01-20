@@ -11,6 +11,7 @@ title: Achievements
 subtitle: ""
 
 ---
+- Sweden University Challenge Huawei Hackathon 2023, 1st place out of 170+ participants from Nordic universities with 6000 EUR prize, 2023.
 - Sweden University Challenge Huawei Hackathon 2022, 3rd place out of 200+ participants with 10,000 SEK prize, 2022.
 - Sweden University Challenge Huawei Hackathon 2021, 3rd place out of 200+ participants with 10,000 SEK prize, 2021.
 - Outstanding employee of the quarter, Baidu, 2018.

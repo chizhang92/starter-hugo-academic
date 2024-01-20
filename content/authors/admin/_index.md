@@ -18,17 +18,19 @@ bio: My research interests include automated driving, deep learning and computer
 
 # Interests to show in About widget
 interests:
-- Automated Driving
-- Computer Vision
+- Behavior Prediction
 - Deep Learning
-- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Time Series Analysis
+- Intelligent Vehicles
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science and Engineering
     institution: University of Gothenburg, Sweden
-    year: Ongoing
+    year: From 2020 to present
   - course: MEng in Control Engineering
     institution: Zhejiang University, China
     year: 2017
@@ -44,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Chi-Zhang-348
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FvZFH8MAAAAJ
@@ -71,10 +73,14 @@ email: "chi.zhang@gu.se"
 highlight_name: true
 ---
 
-Chi Zhang is currently pursuing her PhD degree under the supervision of Prof. [Christian Berger](https://research.chalmers.se/en/person/bergerc) and Prof. [Marco Dozza](https://research.chalmers.se/en/person/dozza) with the Department of Computer Science and Engineering, University of Gothenburg.
-She received her BEng and MEng degrees in the Department of Control Science and Engineering from Zhejiang University, China, in 2014 and 2017, respectively. From 2017 to 2020, she was an engineer at the Intelligence Driving Group, Baidu, Beijing, China, in the area of automated driving perception.
+Chi Zhang is currently pursuing her PhD degree with the Department of Computer Science and Engineering, University of Gothenburg. She is a Marie Curie Early Stage Researcher within [SHAPE-IT](https://www.shape-it.eu/) project, and an [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) affiliated student.
+
+Her research interests include applying deep learning and machine learing algorithms to pedestrian behavior prediction, and investigating interactions between pedestrians and vehicles/automated vehicles. She is under the supervision of Prof. [Christian Berger](https://research.chalmers.se/en/person/bergerc) and Prof. [Marco Dozza](https://research.chalmers.se/en/person/dozza).
+
+From 2017 to 2020, she was an Senior R&D Engineer at the Intelligence Driving Group, Baidu, Beijing, China, in the area of automated driving perception.
+She received her BEng and MEng degrees in the Department of Control Science and Engineering from Zhejiang University, China, in 2014 and 2017, respectively.
 
 
-Her research interests include applying deep learning to pedestrian behavior prediction, and investigating interactions between pedestrians and vehicles/automated vehicles.
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
