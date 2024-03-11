@@ -73,7 +73,7 @@ email: "chi.zhang@gu.se"
 highlight_name: true
 ---
 
-Chi Zhang is currently pursuing her PhD degree with the Department of Computer Science and Engineering, University of Gothenburg. She is a Marie Curie Early Stage Researcher within [SHAPE-IT](https://www.shape-it.eu/) project, and an [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) affiliated student.
+Chi Zhang is currently pursuing her PhD degree with the Department of Computer Science and Engineering, University of Gothenburg. She is a Marie Curie Early Stage Researcher within [SHAPE-IT](https://www.shape-it.eu/) project, and a [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) affiliated PhD student.
 
 Her research interests include applying deep learning and machine learing algorithms to pedestrian behavior prediction, and investigating interactions between pedestrians and vehicles/automated vehicles. She is under the supervision of Prof. [Christian Berger](https://research.chalmers.se/en/person/bergerc) and Prof. [Marco Dozza](https://research.chalmers.se/en/person/dozza).
 

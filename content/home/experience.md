@@ -36,8 +36,9 @@ experience:
 
         Studies include:
         
-        * Social Interaction Weighted Network for Pedestrian Trajectory Prediction in Urban Traffic Scenarios
-        * Learning the Pedestrian-Vehicle Interaction for Pedestrian Trajectory Prediction
+        * Predicting pedestrian trajectories
+        * Predicting pedestrian intentions 
+        * Predicting and analyzing pedestrian-vehicle interactions
         
   - title: Senior Software R&D Engineer 
     company: Baidu
